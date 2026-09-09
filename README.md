@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B8D9&height=200&section=header&text=Abdelaziz%20Mahmoud&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Software%20Engineering%20%26%20AI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B8D9&height=200&section=header&text=Abdelaziz%20Mahmoud&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20-%20Software%20Engineering%20and%20AI&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Software+Engineer;Backend+%26+Full-Stack+Developer;Building+AI+%26+RAG+Systems;Learning+%7C+Building+%7C+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Software+Engineer;Backend+and+Full-Stack+Developer;Building+AI+and+RAG+Systems;Learning+-+Building+-+Improving" />
 
 <br>
 
