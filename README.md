@@ -1,95 +1,175 @@
 <div align="center">
 
-# Hi 👋, I'm Abdelaziz Mahmoud
+# Abdelaziz Mahmoud
 
 ### Computer Science Student | Software Engineering & AI
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Learning+AI+%26+RAG+Systems;Building+Real-World+Projects)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Software+Engineer;Backend+%26+Full-Stack+Developer;Building+AI+%26+RAG+Systems;Learning+%7C+Building+%7C+Improving" />
+
+<br>
+
+<a href="https://linkedin.com/in/abdelazizmahmoudcs">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/abdelaziz-mahmoud-dev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:abdelazizmahmoudcs@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=abdelaziz-mahmoud-dev&label=Profile%20Views&color=00B8D9&style=flat-square" />
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+## 👋 About Me
 
-I'm a Computer Science student at **Benha University** interested in **Software Engineering**, **Backend Development**, and **Artificial Intelligence**.
-Currently focused on building strong Computer Science fundamentals and developing real-world software projects.
+I'm **Abdelaziz Mahmoud**, a Computer Science student at **Benha University** with a strong interest in **Software Engineering, Backend Development, and Artificial Intelligence**.
 
----
+I'm focused on building a strong foundation in Computer Science while turning what I learn into real-world projects.
 
-### 🚀 Currently Learning
+Currently, I'm working with **JavaScript, Node.js, Python, databases, REST APIs, and AI/RAG systems**.
 
-- Python & C++
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Backend Development & REST APIs
-- Databases
-- Machine Learning
-- Retrieval-Augmented Generation (RAG)
+I enjoy understanding how things work under the hood, building projects from scratch, and continuously improving my engineering skills.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 What I'm Currently Learning
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-**AI & Data**
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-black?style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-black?style=flat-square)
-
-**Tools**
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+- 🧠 Data Structures & Algorithms
+- 💻 Object-Oriented Programming
+- ⚙️ Backend Development & REST APIs
+- 🗄️ Databases & Database Design
+- 🐍 Python & C++
+- 🤖 Machine Learning & AI
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🌐 Full-Stack Web Development
+- 🔧 Software Engineering Principles
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Tech Stack
 
-**🧠 CoreMind — AI Clinical Decision Support System**
-An AI-powered RAG system designed to retrieve evidence from trusted medical guidelines and generate grounded responses with citations.
-`Python` `RAG` `FastAPI` `Vector Database` `LLM`
+### 💻 Programming Languages
 
-**⚙️ Saraha API**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🤖 AI & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-00B8D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 CoreMind
+**AI Clinical Decision Support System**
+
+An AI-powered RAG system designed to retrieve information from trusted medical guidelines and generate grounded responses with supporting citations.
+
+**Tech:** `Python` `FastAPI` `RAG` `ChromaDB` `LLM` `PDF Processing`
+
+---
+
+### ⚙️ Saraha API
+
 A RESTful backend API for an anonymous messaging application.
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
 
-**📚 Library Management System**
-A console-based Library Management System built with C++ (OOP, file handling).
-`C++`
+**Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcrypt`
 
 ---
 
-### 🎯 Goals
+### 🛒 E-Commerce API
 
-- Become a strong Software Engineer
-- Build reliable real-world software
-- Strengthen my Computer Science fundamentals
-- Develop practical AI systems
-- Work with international teams
+A backend API for an e-commerce platform with product management, authentication, and database integration.
+
+**Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
 
 ---
 
-### 📫 Connect With Me
+### 📚 Library Management System
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abdelazizmahmoudcs)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/abdelaziz-mahmoud-dev)
+A console-based Library Management System built with C++ using object-oriented programming and file handling.
+
+**Tech:** `C++` `OOP` `File Handling`
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdelaziz-mahmoud-dev&color=00FFAA&style=flat-square)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelaziz-mahmoud-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaziz-mahmoud-dev&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abdelaziz-mahmoud-dev&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 My Goals
+
+- Become a strong **Software Engineer**
+- Build production-quality software
+- Master **Data Structures & Algorithms**
+- Become strong in **Backend & Full-Stack Development**
+- Build practical **AI systems**
+- Contribute to real-world projects
+- Work with **international engineering teams**
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/abdelazizmahmoudcs">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/abdelaziz-mahmoud-dev">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+### 💡 "Learning by building, improving by solving."
 
 </div>
