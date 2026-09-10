@@ -1,48 +1,28 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#0D1B2A">
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B8D9&height=200&section=header&text=Abdelaziz%20Mahmoud&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20-%20Software%20Engineering%20and%20AI&descAlignY=55&descSize=18" width="100%"/>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,100:00B8D9&height=200&section=header&text=Abdelaziz%20Mahmoud&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20-%20Software%20Engineering%20and%20AI&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Software+Engineer;Backend+and+Full-Stack+Developer;Building+AI+and+RAG+Systems;Learning+-+Building+-+Improving" />
 
-<br><br>
-
-<a href="https://linkedin.com/in/abdelazizmahmoudcs">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/abdelaziz-mahmoud-dev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:abdelazizmahmoudcs@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=abdelaziz-mahmoud-dev&label=Profile%20Views&color=00B8D9&style=flat-square" />
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
 <br>
 
-<!-- ABOUT -->
+<a href="https://linkedin.com/in/abdelazizmahmoudcs">
+  <img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00B8D9" />
+</a>
+<a href="https://github.com/abdelaziz-mahmoud-dev">
+  <img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00B8D9" />
+</a>
+<a href="mailto:abdelazizmahmoudcs@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=00B8D9" />
+</a>
 
-<table width="100%">
-<tr>
-<td bgcolor="#F0F7FF">
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=abdelaziz-mahmoud-dev&label=Profile%20Views&color=0A0E27&style=flat-square" />
+
+</div>
+
+---
 
 ## 👋 About Me
 
@@ -54,194 +34,122 @@ Currently, I'm working with **JavaScript, Node.js, Python, databases, REST APIs,
 
 I enjoy understanding how things work under the hood, building projects from scratch, and continuously improving my engineering skills.
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- CURRENTLY LEARNING -->
-
-<table width="100%">
-<tr>
-<td bgcolor="#F7FAFC">
+---
 
 ## 🚀 What I'm Currently Learning
 
-| Area | Focus |
-|---|---|
-| 🧠 Computer Science | Data Structures & Algorithms |
-| 💻 Programming | Object-Oriented Programming |
-| ⚙️ Backend | REST APIs & Backend Architecture |
-| 🗄️ Databases | Database Design & Management |
-| 🐍 Programming | Python & C++ |
-| 🤖 AI | Machine Learning & Artificial Intelligence |
-| 📚 AI Systems | Retrieval-Augmented Generation (RAG) |
-| 🌐 Web | Full-Stack Web Development |
-| 🔧 Engineering | Software Engineering Principles |
+- 🧠 Data Structures & Algorithms
+- 💻 Object-Oriented Programming
+- ⚙️ Backend Development & REST APIs
+- 🗄️ Databases & Database Design
+- 🐍 Python & C++
+- 🤖 Machine Learning & AI
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🌐 Full-Stack Web Development
+- 🔧 Software Engineering Principles
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- TECH STACK -->
-
-<table width="100%">
-<tr>
-<td bgcolor="#F0F7FF">
+---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Databases
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 </p>
 
 ### 🤖 AI & Data
-
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
 </p>
-
 <p>
-<img src="https://img.shields.io/badge/RAG-00B8D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0A0E27?style=for-the-badge&logoColor=00B8D9" />
+  <img src="https://img.shields.io/badge/LangChain-0A0E27?style=for-the-badge&logo=langchain&logoColor=00B8D9" />
+  <img src="https://img.shields.io/badge/ChromaDB-0A0E27?style=for-the-badge&logoColor=00B8D9" />
+  <img src="https://img.shields.io/badge/FastAPI-0A0E27?style=for-the-badge&logo=fastapi&logoColor=00B8D9" />
 </p>
 
 ### 🔧 Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
 </p>
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- PROJECTS -->
-
-<table width="100%">
-<tr>
-<td bgcolor="#F7FAFC">
+---
 
 ## 📌 Featured Projects
 
-<table width="100%">
+<table>
 <tr>
-
-<td width="50%" valign="top" bgcolor="#EEF6FF">
+<td width="50%" valign="top">
 
 ### 🧠 CoreMind
-
 **AI Clinical Decision Support System**
 
 An AI-powered RAG system designed to retrieve information from trusted medical guidelines and generate grounded responses with supporting citations.
 
-**Tech**
-
 `Python` `FastAPI` `RAG` `ChromaDB` `LLM` `PDF Processing`
 
 </td>
-
-<td width="50%" valign="top" bgcolor="#F3FAFA">
+<td width="50%" valign="top">
 
 ### ⚙️ Saraha API
-
 **Anonymous Messaging Backend**
 
 A RESTful backend API for an anonymous messaging application.
 
-**Tech**
-
 `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcrypt`
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%" valign="top" bgcolor="#F3FAFA">
+### 📅 Booking System API
+**Appointment Booking Backend**
 
-### 🛒 E-Commerce API
+A backend API for booking services with JWT auth, role-based access, and automatic time-slot conflict detection.
 
-**Backend API Platform**
-
-A backend API for an e-commerce platform with product management, authentication, and database integration.
-
-**Tech**
-
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
+`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Nodemailer`
 
 </td>
-
-<td width="50%" valign="top" bgcolor="#EEF6FF">
+<td width="50%" valign="top">
 
 ### 📚 Library Management System
-
 **C++ Console Application**
 
 A console-based Library Management System built with C++ using object-oriented programming and file handling.
 
-**Tech**
-
 `C++` `OOP` `File Handling`
 
 </td>
-
 </tr>
 </table>
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- GITHUB STATS -->
-
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#F0F7FF">
+---
 
 ## 📊 GitHub Stats
 
-<br>
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelaziz-mahmoud-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelaziz-mahmoud-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0A0E27&title_color=00B8D9&icon_color=00B8D9&text_color=ffffff" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaziz-mahmoud-dev&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaziz-mahmoud-dev&layout=compact&hide_border=true&theme=dark&bg_color=0A0E27&title_color=00B8D9&text_color=ffffff" />
 
-<br><br>
+</div>
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=abdelaziz-mahmoud-dev&hide_border=true&theme=tokyonight" />
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=abdelaziz-mahmoud-dev&hide_border=true&background=0A0E27&stroke=00B8D9&ring=00B8D9&fire=00B8D9&currStreakLabel=00B8D9&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 
-<br>
+</div>
 
-<!-- GOALS -->
-
-<table width="100%">
-<tr>
-<td bgcolor="#F7FAFC">
+---
 
 ## 🎯 My Goals
 
@@ -253,40 +161,23 @@ A console-based Library Management System built with C++ using object-oriented p
 - Contribute to real-world projects
 - Work with **international engineering teams**
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- CONNECT -->
-
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#0D1B2A">
+---
 
 ## 📫 Let's Connect
 
-<br>
+<div align="center">
 
 <a href="https://linkedin.com/in/abdelazizmahmoudcs">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00B8D9" />
 </a>
-
 <a href="https://github.com/abdelaziz-mahmoud-dev">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-0A0E27?style=for-the-badge&logo=github&logoColor=00B8D9" />
 </a>
 
 <br><br>
 
-### 💡 Learning by building, improving by solving.
+### 💡 "Learning by building, improving by solving."
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,100:0A66C2&height=100&section=footer" width="100%"/>
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,100:0A0E27&height=100&section=footer" width="100%"/>
 
 </div>
