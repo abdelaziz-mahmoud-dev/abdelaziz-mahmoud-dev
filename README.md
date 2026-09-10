@@ -22,9 +22,7 @@
 
 </div>
 
----
-
-## 👋 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E27&height=60&section=header&text=About%20Me&fontSize=26&fontColor=00B8D9&fontAlignY=55" width="100%"/>
 
 I'm **Abdelaziz Mahmoud**, a Computer Science student at **Benha University** with a strong interest in **Software Engineering, Backend Development, and Artificial Intelligence**.
 
@@ -34,9 +32,7 @@ Currently, I'm working with **JavaScript, Node.js, Python, databases, REST APIs,
 
 I enjoy understanding how things work under the hood, building projects from scratch, and continuously improving my engineering skills.
 
----
-
-## 🚀 What I'm Currently Learning
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E27&height=60&section=header&text=Currently%20Learning&fontSize=26&fontColor=00B8D9&fontAlignY=55" width="100%"/>
 
 - 🧠 Data Structures & Algorithms
 - 💻 Object-Oriented Programming
@@ -48,21 +44,19 @@ I enjoy understanding how things work under the hood, building projects from scr
 - 🌐 Full-Stack Web Development
 - 🔧 Software Engineering Principles
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E27&height=60&section=header&text=Tech%20Stack&fontSize=26&fontColor=00B8D9&fontAlignY=55" width="100%"/>
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
+**Programming Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
 </p>
 
-### ⚙️ Backend & Databases
+**Backend & Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 </p>
 
-### 🤖 AI & Data
+**AI & Data**
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
 </p>
@@ -73,21 +67,19 @@ I enjoy understanding how things work under the hood, building projects from scr
   <img src="https://img.shields.io/badge/FastAPI-0A0E27?style=for-the-badge&logo=fastapi&logoColor=00B8D9" />
 </p>
 
-### 🔧 Tools
+**Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
 </p>
 
----
-
-## 📌 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E27&height=60&section=header&text=Featured%20Projects&fontSize=26&fontColor=00B8D9&fontAlignY=55" width="100%"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 CoreMind
-**AI Clinical Decision Support System**
+**🧠 CoreMind**
+AI Clinical Decision Support System
 
 An AI-powered RAG system designed to retrieve information from trusted medical guidelines and generate grounded responses with supporting citations.
 
@@ -96,8 +88,8 @@ An AI-powered RAG system designed to retrieve information from trusted medical g
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Saraha API
-**Anonymous Messaging Backend**
+**⚙️ Saraha API**
+Anonymous Messaging Backend
 
 A RESTful backend API for an anonymous messaging application.
 
@@ -108,8 +100,8 @@ A RESTful backend API for an anonymous messaging application.
 <tr>
 <td width="50%" valign="top">
 
-### 📅 Booking System API
-**Appointment Booking Backend**
+**📅 Booking System API**
+Appointment Booking Backend
 
 A backend API for booking services with JWT auth, role-based access, and automatic time-slot conflict detection.
 
@@ -118,8 +110,8 @@ A backend API for booking services with JWT auth, role-based access, and automat
 </td>
 <td width="50%" valign="top">
 
-### 📚 Library Management System
-**C++ Console Application**
+**📚 Library Management System**
+C++ Console Application
 
 A console-based Library Management System built with C++ using object-oriented programming and file handling.
 
@@ -129,9 +121,7 @@ A console-based Library Management System built with C++ using object-oriented p
 </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E27&height=60&section=header&text=GitHub%20Stats&fontSize=26&fontColor=00B8D9&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -141,17 +131,13 @@ A console-based Library Management System built with C++ using object-oriented p
 
 </div>
 
-## 🔥 GitHub Streak
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=abdelaziz-mahmoud-dev&hide_border=true&background=0A0E27&stroke=00B8D9&ring=00B8D9&fire=00B8D9&currStreakLabel=00B8D9&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 
 </div>
 
----
-
-## 🎯 My Goals
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E27&height=60&section=header&text=My%20Goals&fontSize=26&fontColor=00B8D9&fontAlignY=55" width="100%"/>
 
 - Become a strong **Software Engineer**
 - Build production-quality software
@@ -161,9 +147,7 @@ A console-based Library Management System built with C++ using object-oriented p
 - Contribute to real-world projects
 - Work with **international engineering teams**
 
----
-
-## 📫 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0E27&height=60&section=header&text=Let's%20Connect&fontSize=26&fontColor=00B8D9&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
