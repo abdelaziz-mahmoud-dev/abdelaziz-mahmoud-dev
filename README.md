@@ -2,7 +2,7 @@
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#0D1B2A">
+<td bgcolor="#F4F8FC">
 
 <br>
 
@@ -10,39 +10,33 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Software+Engineer;Backend+and+Full-Stack+Developer;Building+AI+and+RAG+Systems;Learning+-+Building+-+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Software+Engineer;Backend+and+Full-Stack+Developer;Building+AI+and+RAG+Systems;Learning+-+Building+-+Improving" />
 
 <br><br>
 
 <a href="https://linkedin.com/in/abdelazizmahmoudcs">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/abdelaziz-mahmoud-dev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-263238?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:abdelazizmahmoudcs@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-0088A9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=abdelaziz-mahmoud-dev&label=Profile%20Views&color=00B8D9&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=abdelaziz-mahmoud-dev&label=Profile%20Views&color=0A66C2&style=flat-square" />
 
 <br><br>
 
-</td>
-</tr>
-</table>
+<hr>
 
-<br>
-
-<!-- ABOUT -->
-
-<table width="100%">
+<table width="94%">
 <tr>
-<td bgcolor="#F0F7FF">
+<td bgcolor="#EAF3FA">
 
 ## 👋 About Me
 
@@ -60,25 +54,21 @@ I enjoy understanding how things work under the hood, building projects from scr
 
 <br>
 
-<!-- CURRENTLY LEARNING -->
-
-<table width="100%">
+<table width="94%">
 <tr>
-<td bgcolor="#F7FAFC">
+<td bgcolor="#EAF3FA">
 
 ## 🚀 What I'm Currently Learning
 
-| Area | Focus |
-|---|---|
-| 🧠 Computer Science | Data Structures & Algorithms |
-| 💻 Programming | Object-Oriented Programming |
-| ⚙️ Backend | REST APIs & Backend Architecture |
-| 🗄️ Databases | Database Design & Management |
-| 🐍 Programming | Python & C++ |
-| 🤖 AI | Machine Learning & Artificial Intelligence |
-| 📚 AI Systems | Retrieval-Augmented Generation (RAG) |
-| 🌐 Web | Full-Stack Web Development |
-| 🔧 Engineering | Software Engineering Principles |
+- 🧠 **Data Structures & Algorithms**
+- 💻 **Object-Oriented Programming**
+- ⚙️ **Backend Development & REST APIs**
+- 🗄️ **Databases & Database Design**
+- 🐍 **Python & C++**
+- 🤖 **Machine Learning & AI**
+- 📚 **Retrieval-Augmented Generation (RAG)**
+- 🌐 **Full-Stack Web Development**
+- 🔧 **Software Engineering Principles**
 
 </td>
 </tr>
@@ -86,11 +76,9 @@ I enjoy understanding how things work under the hood, building projects from scr
 
 <br>
 
-<!-- TECH STACK -->
-
-<table width="100%">
+<table width="94%">
 <tr>
-<td bgcolor="#F0F7FF">
+<td bgcolor="#F0F7FC">
 
 ## 🛠️ Tech Stack
 
@@ -113,10 +101,10 @@ I enjoy understanding how things work under the hood, building projects from scr
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/RAG-00B8D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-00A8C6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-0088A9?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### 🔧 Tools
@@ -131,18 +119,16 @@ I enjoy understanding how things work under the hood, building projects from scr
 
 <br>
 
-<!-- PROJECTS -->
-
-<table width="100%">
+<table width="94%">
 <tr>
-<td bgcolor="#F7FAFC">
+<td bgcolor="#EAF3FA">
 
 ## 📌 Featured Projects
 
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top" bgcolor="#EEF6FF">
+<td width="50%" valign="top" bgcolor="#F4F9FD">
 
 ### 🧠 CoreMind
 
@@ -150,13 +136,13 @@ I enjoy understanding how things work under the hood, building projects from scr
 
 An AI-powered RAG system designed to retrieve information from trusted medical guidelines and generate grounded responses with supporting citations.
 
-**Tech**
+<br>
 
 `Python` `FastAPI` `RAG` `ChromaDB` `LLM` `PDF Processing`
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#F3FAFA">
+<td width="50%" valign="top" bgcolor="#F4F9FD">
 
 ### ⚙️ Saraha API
 
@@ -164,7 +150,7 @@ An AI-powered RAG system designed to retrieve information from trusted medical g
 
 A RESTful backend API for an anonymous messaging application.
 
-**Tech**
+<br>
 
 `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcrypt`
 
@@ -174,7 +160,7 @@ A RESTful backend API for an anonymous messaging application.
 
 <tr>
 
-<td width="50%" valign="top" bgcolor="#F3FAFA">
+<td width="50%" valign="top" bgcolor="#F4F9FD">
 
 ### 🛒 E-Commerce API
 
@@ -182,13 +168,13 @@ A RESTful backend API for an anonymous messaging application.
 
 A backend API for an e-commerce platform with product management, authentication, and database integration.
 
-**Tech**
+<br>
 
 `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#EEF6FF">
+<td width="50%" valign="top" bgcolor="#F4F9FD">
 
 ### 📚 Library Management System
 
@@ -196,7 +182,7 @@ A backend API for an e-commerce platform with product management, authentication
 
 A console-based Library Management System built with C++ using object-oriented programming and file handling.
 
-**Tech**
+<br>
 
 `C++` `OOP` `File Handling`
 
@@ -211,11 +197,9 @@ A console-based Library Management System built with C++ using object-oriented p
 
 <br>
 
-<!-- GITHUB STATS -->
-
-<table width="100%">
+<table width="94%">
 <tr>
-<td align="center" bgcolor="#F0F7FF">
+<td align="center" bgcolor="#EAF3FA">
 
 ## 📊 GitHub Stats
 
@@ -237,11 +221,9 @@ A console-based Library Management System built with C++ using object-oriented p
 
 <br>
 
-<!-- GOALS -->
-
-<table width="100%">
+<table width="94%">
 <tr>
-<td bgcolor="#F7FAFC">
+<td bgcolor="#F0F7FC">
 
 ## 🎯 My Goals
 
@@ -259,22 +241,20 @@ A console-based Library Management System built with C++ using object-oriented p
 
 <br>
 
-<!-- CONNECT -->
-
-<table width="100%">
+<table width="94%">
 <tr>
-<td align="center" bgcolor="#0D1B2A">
+<td align="center" bgcolor="#EAF3FA">
 
 ## 📫 Let's Connect
 
 <br>
 
 <a href="https://linkedin.com/in/abdelazizmahmoudcs">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/abdelaziz-mahmoud-dev">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-263238?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
@@ -284,6 +264,10 @@ A console-based Library Management System built with C++ using object-oriented p
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,100:0A66C2&height=100&section=footer" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
