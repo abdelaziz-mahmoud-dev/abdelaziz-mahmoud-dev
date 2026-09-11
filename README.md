@@ -40,15 +40,15 @@ I enjoy understanding how things work under the hood, building projects from scr
 
 ## 🚀 What I'm Currently Learning
 
-- 🧠 Data Structures & Algorithms
-- 💻 Object-Oriented Programming
-- ⚙️ Backend Development & REST APIs
-- 🗄️ Databases & Database Design
-- 🐍 Python & C++
-- 🤖 Machine Learning & AI
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🌐 Full-Stack Web Development
-- 🔧 Software Engineering Principles
+* 🧠 Data Structures & Algorithms
+* 💻 Object-Oriented Programming
+* ⚙️ Backend Development & REST APIs
+* 🗄️ Databases & Database Design
+* 🐍 Python & C++
+* 🤖 Machine Learning & AI
+* 📚 Retrieval-Augmented Generation (RAG)
+* 🌐 Full-Stack Web Development
+* 🔧 Software Engineering Principles
 
 ---
 
@@ -150,51 +150,43 @@ A console-based Library Management System built with C++ using object-oriented p
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=abdelaziz-mahmoud-dev&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Abdelaziz's GitHub Stats"
+src="https://github-readme-stats.vercel.app/api?username=abdelaziz-mahmoud-dev&show_icons=true&hide_border=true&rank_icon=github"
+alt="GitHub Stats"
 />
 
+<br><br>
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaziz-mahmoud-dev&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaziz-mahmoud-dev&layout=compact&hide_border=true"
+alt="Top Languages"
 />
 
 </div>
+
+---
 
 ## 🔥 GitHub Streak
 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com/?user=abdelaziz-mahmoud-dev&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
+src="https://streak-stats.demolab.com/?user=abdelaziz-mahmoud-dev&hide_border=true"
+alt="GitHub Streak"
 />
 
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com/?user=abdelaziz-mahmoud-dev&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</a>
 </div>
 
 ---
 
 ## 🎯 My Goals
 
-- Become a strong **Software Engineer**
-- Build production-quality software
-- Master **Data Structures & Algorithms**
-- Become strong in **Backend & Full-Stack Development**
-- Build practical **AI systems**
-- Contribute to real-world projects
-- Work with **international engineering teams**
+* Become a strong **Software Engineer**
+* Build production-quality software
+* Master **Data Structures & Algorithms**
+* Become strong in **Backend & Full-Stack Development**
+* Build practical **AI systems**
+* Contribute to real-world projects
+* Work with **international engineering teams**
 
 ---
 
