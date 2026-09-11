@@ -159,8 +159,12 @@ A console-based Library Management System built with C++ using object-oriented p
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abdelaziz-mahmoud-dev&hide_border=true&theme=tokyonight" />
-
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com/?user=abdelaziz-mahmoud-dev&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</a>
 </div>
 
 ---
