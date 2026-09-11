@@ -145,26 +145,6 @@ A console-based Library Management System built with C++ using object-oriented p
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=abdelaziz-mahmoud-dev&show_icons=true&hide_border=true&rank_icon=github"
-alt="GitHub Stats"
-/>
-
-<br><br>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaziz-mahmoud-dev&layout=compact&hide_border=true"
-alt="Top Languages"
-/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
