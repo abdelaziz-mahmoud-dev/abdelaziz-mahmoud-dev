@@ -40,15 +40,20 @@ I enjoy understanding how things work under the hood, building projects from scr
 
 ## 🚀 What I'm Currently Learning
 
-* 🧠 Data Structures & Algorithms
-* 💻 Object-Oriented Programming
-* ⚙️ Backend Development & REST APIs
-* 🗄️ Databases & Database Design
-* 🐍 Python & C++
-* 🤖 Machine Learning & AI
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🌐 Full-Stack Web Development
-* 🔧 Software Engineering Principles
+<div align="center">
+
+| 🎯 Area | 📖 Focus |
+|:---:|:---|
+| 🧠 **Computer Science Core** | Data Structures & Algorithms, Object-Oriented Programming |
+| ⚙️ **Backend Development** | REST APIs, Server Architecture, Authentication |
+| 🗄️ **Databases** | Database Design, MongoDB, MySQL |
+| 🐍 **Languages** | Python & C++ |
+| 🤖 **AI & Machine Learning** | Machine Learning Fundamentals, Model Training |
+| 📚 **Applied AI** | Retrieval-Augmented Generation (RAG) Systems |
+| 🌐 **Full-Stack Development** | End-to-End Web & Mobile Applications |
+| 🔧 **Engineering Practices** | Software Engineering Principles, Clean Code |
+
+</div>
 
 ---
 
@@ -56,23 +61,23 @@ I enjoy understanding how things work under the hood, building projects from scr
 
 ### 💻 Programming Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 </p>
 
 ### ⚙️ Backend & Databases
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### 🤖 AI & Data
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/RAG-00B8D9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge" />
@@ -81,7 +86,7 @@ I enjoy understanding how things work under the hood, building projects from scr
 
 ### 🔧 Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
@@ -89,59 +94,72 @@ I enjoy understanding how things work under the hood, building projects from scr
 
 ## 📌 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<th align="center" width="25%">Project</th>
+<th align="center" width="45%">Description</th>
+<th align="center" width="30%">Tech Stack</th>
+</tr>
 
-### 🧠 CoreMind
-
-**AI Clinical Decision Support System**
-
-An AI-powered RAG system designed to retrieve information from trusted medical guidelines and generate grounded responses with supporting citations.
-
-`Python` `FastAPI` `RAG` `ChromaDB` `LLM` `PDF Processing`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Saraha API
-
-**Anonymous Messaging Backend**
-
-A RESTful backend API for an anonymous messaging application.
-
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcrypt`
-
+<tr>
+<td align="center">🧠<br><b>CoreMind</b><br><sub>AI Clinical Decision Support System</sub></td>
+<td align="center">An AI-powered RAG system designed to retrieve information from trusted medical guidelines and generate grounded responses with supporting citations.</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/RAG-00B8D9?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=flat-square"/>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce API
-
-**Backend API Platform**
-
-A backend API for an e-commerce platform with product management, authentication, and database integration.
-
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 Library Management System
-
-**C++ Console Application**
-
-A console-based Library Management System built with C++ using object-oriented programming and file handling.
-
-`C++` `OOP` `File Handling`
-
+<td align="center">⚙️<br><b>Saraha API</b><br><sub>Anonymous Messaging Backend</sub></td>
+<td align="center">A RESTful backend API for an anonymous messaging application, featuring secure authentication and message handling.</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/>
 </td>
 </tr>
+
+<tr>
+<td align="center">🛒<br><b>E-Commerce API</b><br><sub>Backend API Platform</sub></td>
+<td align="center">A backend API for an e-commerce platform with product management, user authentication, and full database integration.</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">📱<br><b>One Minute</b><br><sub>Micro-Learning Mobile App</sub></td>
+<td align="center">A mobile app that teaches useful skills in one-minute daily lessons, with quizzes, spaced-repetition recall, and progress tracking.</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">📚<br><b>Library Management System</b><br><sub>C++ Console Application</sub></td>
+<td align="center">A console-based Library Management System built with object-oriented programming and persistent file handling.</td>
+<td align="center">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/OOP-grey?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/File%20Handling-grey?style=flat-square"/>
+</td>
+</tr>
+
 </table>
+
+</div>
 
 ---
 
@@ -160,13 +178,19 @@ alt="GitHub Streak"
 
 ## 🎯 My Goals
 
-* Become a strong **Software Engineer**
-* Build production-quality software
-* Master **Data Structures & Algorithms**
-* Become strong in **Backend & Full-Stack Development**
-* Build practical **AI systems**
-* Contribute to real-world projects
-* Work with **international engineering teams**
+<div align="center">
+
+| Goal |
+|:---|
+| 🚀 Become a strong **Software Engineer** |
+| 🏗️ Build production-quality software |
+| 🧩 Master **Data Structures & Algorithms** |
+| ⚙️ Become strong in **Backend & Full-Stack Development** |
+| 🤖 Build practical **AI systems** |
+| 🌍 Contribute to real-world projects |
+| 🤝 Work with **international engineering teams** |
+
+</div>
 
 ---
 
