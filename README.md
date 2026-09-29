@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:abdelazizmahmoudcs@gmail.com">
+<a href="mailto:abdelaziz.mahmoudcs@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -48,7 +48,7 @@ I enjoy understanding how things work under the hood, building projects from scr
 | ⚙️ **Backend Development** | REST APIs, Server Architecture, Authentication |
 | 🗄️ **Databases** | Database Design, MongoDB, MySQL |
 | 🐍 **Languages** | Python & C++ |
-| 🤖 **AI & Machine Learning** | Machine Learning Fundamentals, Model Training |
+| 🤖 **AI & Machine Learning** | Machine Learning Fundamentals and Practical AI |
 | 📚 **Applied AI** | Retrieval-Augmented Generation (RAG) Systems |
 | 🌐 **Full-Stack Development** | End-to-End Web & Mobile Applications |
 | 🔧 **Engineering Practices** | Software Engineering Principles, Clean Code |
@@ -87,7 +87,7 @@ I enjoy understanding how things work under the hood, building projects from scr
 ### 🔧 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
 </p>
 
 ---
@@ -104,8 +104,17 @@ I enjoy understanding how things work under the hood, building projects from scr
 </tr>
 
 <tr>
-<td align="center">🧠<br><b>CoreMind</b><br><sub>AI Clinical Decision Support System</sub></td>
-<td align="center">An AI-powered RAG system designed to retrieve information from trusted medical guidelines and generate grounded responses with supporting citations.</td>
+<td align="center">
+🧠<br>
+<a href="https://github.com/abdelaziz-mahmoud-dev/ai-hackathon">
+<b>CoreMind</b>
+</a>
+<br>
+<sub>AI Clinical Decision Support System</sub>
+</td>
+<td align="center">
+An AI-powered RAG system designed to retrieve evidence from trusted medical guidelines and generate grounded responses with supporting citations.
+</td>
 <td align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/><br>
@@ -115,32 +124,41 @@ I enjoy understanding how things work under the hood, building projects from scr
 </tr>
 
 <tr>
-<td align="center">⚙️<br><b>Saraha API</b><br><sub>Anonymous Messaging Backend</sub></td>
-<td align="center">A RESTful backend API for an anonymous messaging application, featuring secure authentication and message handling.</td>
+<td align="center">
+🛒<br>
+<a href="https://github.com/abdelaziz-mahmoud-dev/ecommerce-api">
+<b>E-Commerce API</b>
+</a>
+<br>
+<sub>Full-Featured Backend API</sub>
+</td>
+<td align="center">
+A full-featured e-commerce REST API with authentication, product and cart management, orders, real-time notifications, Stripe payments, and Docker support.
+</td>
 <td align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </td>
 </tr>
 
 <tr>
-<td align="center">🛒<br><b>E-Commerce API</b><br><sub>Backend API Platform</sub></td>
-<td align="center">A backend API for an e-commerce platform with product management, user authentication, and full database integration.</td>
 <td align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square"/>
+📱<br>
+<a href="https://github.com/abdelaziz-mahmoud-dev/one-minute">
+<b>One Minute</b>
+</a>
+<br>
+<sub>Micro-Learning Mobile App</sub>
 </td>
-</tr>
-
-<tr>
-<td align="center">📱<br><b>One Minute</b><br><sub>Micro-Learning Mobile App</sub></td>
-<td align="center">A mobile app that teaches useful skills in one-minute daily lessons, with quizzes, spaced-repetition recall, and progress tracking.</td>
+<td align="center">
+A micro-learning mobile app that delivers useful knowledge through short one-minute learning sessions, with authentication, quizzes, progress tracking, and a RESTful backend.
+</td>
 <td align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -148,12 +166,64 @@ I enjoy understanding how things work under the hood, building projects from scr
 </tr>
 
 <tr>
-<td align="center">📚<br><b>Library Management System</b><br><sub>C++ Console Application</sub></td>
-<td align="center">A console-based Library Management System built with object-oriented programming and persistent file handling.</td>
 <td align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/OOP-grey?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/File%20Handling-grey?style=flat-square"/>
+💬<br>
+<a href="https://github.com/abdelaziz-mahmoud-dev/pulse-chat-api">
+<b>Pulse Chat API</b>
+</a>
+<br>
+<sub>Real-Time Chat Backend</sub>
+</td>
+<td align="center">
+A real-time one-to-one chat backend with JWT authentication, Socket.io messaging, online/offline presence, typing indicators, message persistence, rate limiting, and automated API testing.
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+📅<br>
+<a href="https://github.com/abdelaziz-mahmoud-dev/booking-system-api">
+<b>Booking System API</b>
+</a>
+<br>
+<sub>Appointment & Booking Backend</sub>
+</td>
+<td align="center">
+A RESTful booking and appointment management API with JWT authentication, role-based access, service management, booking conflict detection, and email notifications.
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/><br>
+<img src="https://img.shields.io/badge/Nodemailer-0F9D58?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+⚙️<br>
+<a href="https://github.com/abdelaziz-mahmoud-dev/saraha-api">
+<b>Saraha API</b>
+</a>
+<br>
+<sub>Anonymous Messaging Backend</sub>
+</td>
+<td align="center">
+A RESTful backend API for an anonymous messaging application, handling user authentication, protected routes, and anonymous message management with MongoDB.
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/>
 </td>
 </tr>
 
