@@ -20,58 +20,75 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=abdelaziz-mahmoud-dev&label=Profile%20Views&color=00B8D9&style=flat-square" />
-
 </div>
 
----
+👋 About Me
 
-## 👋 About Me
-
-I'm **Abdelaziz Mahmoud**, a Computer Science student at **Benha University** with a strong interest in **Software Engineering, Backend Development, and Artificial Intelligence**.
+I'm Abdelaziz Mahmoud, a Computer Science student at Benha University with a strong interest in Software Engineering, Backend Development, and Artificial Intelligence.
 
 I'm focused on building a strong foundation in Computer Science while turning what I learn into real-world projects.
 
-Currently, I'm working with **JavaScript, Node.js, Python, databases, REST APIs, and AI/RAG systems**.
+Currently, I'm working with JavaScript, Node.js, Python, databases, REST APIs, and AI/RAG systems.
 
 I enjoy understanding how things work under the hood, building projects from scratch, and continuously improving my engineering skills.
 
----
-
-## 🚀 What I'm Currently Learning
+🚀 What I'm Currently Learning
 
 <div align="center">
 
-| 🎯 Area | 📖 Focus |
-|:---:|:---|
-| 🧠 **Computer Science Core** | Data Structures & Algorithms, Object-Oriented Programming |
-| ⚙️ **Backend Development** | REST APIs, Server Architecture, Authentication |
-| 🗄️ **Databases** | Database Design, MongoDB, MySQL |
-| 🐍 **Languages** | Python & C++ |
-| 🤖 **AI & Machine Learning** | Machine Learning Fundamentals and Practical AI |
-| 📚 **Applied AI** | Retrieval-Augmented Generation (RAG) Systems |
-| 🌐 **Full-Stack Development** | End-to-End Web & Mobile Applications |
-| 🔧 **Engineering Practices** | Software Engineering Principles, Clean Code |
+🎯 Area
+
+📖 Focus
+
+🧠 Computer Science Core
+
+Data Structures & Algorithms, Object-Oriented Programming
+
+⚙️ Backend Development
+
+REST APIs, Server Architecture, Authentication
+
+🗄️ Databases
+
+Database Design, MongoDB, MySQL
+
+🐍 Languages
+
+Python & C++
+
+🤖 AI & Machine Learning
+
+Machine Learning Fundamentals and Practical AI
+
+📚 Applied AI
+
+Retrieval-Augmented Generation (RAG) Systems
+
+🌐 Full-Stack Development
+
+End-to-End Web & Mobile Applications
+
+🔧 Engineering Practices
+
+Software Engineering Principles, Clean Code
 
 </div>
 
----
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
+💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 </p>
 
-### ⚙️ Backend & Databases
+⚙️ Backend & Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 🤖 AI & Data
+🤖 AI & Data
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch" />
@@ -84,15 +101,13 @@ I enjoy understanding how things work under the hood, building projects from scr
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### 🔧 Tools
+🔧 Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
 </p>
 
----
-
-## 📌 Featured Projects
+📌 Featured Projects
 
 <div align="center">
 
@@ -231,9 +246,7 @@ A RESTful backend API for an anonymous messaging application, handling user auth
 
 </div>
 
----
-
-## 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <div align="center">
 
@@ -244,27 +257,29 @@ alt="GitHub Streak"
 
 </div>
 
----
-
-## 🎯 My Goals
+🎯 My Goals
 
 <div align="center">
 
-| Goal |
-|:---|
-| 🚀 Become a strong **Software Engineer** |
-| 🏗️ Build production-quality software |
-| 🧩 Master **Data Structures & Algorithms** |
-| ⚙️ Become strong in **Backend & Full-Stack Development** |
-| 🤖 Build practical **AI systems** |
-| 🌍 Contribute to real-world projects |
-| 🤝 Work with **international engineering teams** |
+Goal
+
+🚀 Become a strong Software Engineer
+
+🏗️ Build production-quality software
+
+🧩 Master Data Structures & Algorithms
+
+⚙️ Become strong in Backend & Full-Stack Development
+
+🤖 Build practical AI systems
+
+🌍 Contribute to real-world projects
+
+🤝 Work with international engineering teams
 
 </div>
 
----
-
-## 📫 Let's Connect
+📫 Let's Connect
 
 <div align="center">
 
@@ -278,7 +293,7 @@ alt="GitHub Streak"
 
 <br><br>
 
-### 💡 "Learning by building, improving by solving."
+💡 "Learning by building, improving by solving."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,100:0A66C2&height=100&section=footer" width="100%"/>
 
