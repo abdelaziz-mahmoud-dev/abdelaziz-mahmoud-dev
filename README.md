@@ -30,8 +30,10 @@ I enjoy understanding how things work under the hood, building projects from scr
 
 ## 🚀 What I'm Currently Learning
 
+<div align="center">
+
 | 🎯 Area | 📖 Focus |
-|---------|----------|
+|:-------:|:--------:|
 | 🧠 Computer Science Core | Data Structures & Algorithms, Object-Oriented Programming |
 | ⚙️ Backend Development | REST APIs, Server Architecture, Authentication |
 | 🗄️ Databases | Database Design, MongoDB, MySQL |
@@ -40,6 +42,8 @@ I enjoy understanding how things work under the hood, building projects from scr
 | 📚 Applied AI | Retrieval-Augmented Generation (RAG) Systems |
 | 🌐 Full-Stack Development | End-to-End Web & Mobile Applications |
 | 🔧 Engineering Practices | Software Engineering Principles, Clean Code |
+
+</div>
 
 ## 🛠️ Tech Stack
 
