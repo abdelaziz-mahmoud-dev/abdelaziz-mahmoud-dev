@@ -37,17 +37,46 @@ I learn by building. Alongside my university studies, I work on practical projec
 
 ---
 
-## 🧭 My Engineering Focus
+<h2 align="center">🧭 My Engineering Focus</h2>
 
-| Area | What I'm Working On |
-|---|---|
-| 🧠 Computer Science | Data Structures, Algorithms, OOP, Operating Systems |
-| ⚙️ Backend Engineering | REST APIs, Authentication, Authorization, Server Architecture |
-| 🗄️ Databases | Data Modeling, MongoDB, MySQL, Database Design |
-| 🌐 Full-Stack Development | Frontend Integration, Backend Services, Complete Applications |
-| 🤖 Applied AI | RAG Pipelines, Vector Search, LLM Applications |
-| 🔐 Software Quality | Clean Code, Validation, Security Awareness, Testing |
-| 🚀 Deployment | Git, GitHub, Vercel, Render, Environment Configuration |
+<div align="center">
+
+<table>
+<tr>
+<th align="center" width="30%">Engineering Area</th>
+<th align="center" width="70%">What I'm Working On</th>
+</tr>
+<tr>
+<td align="center">🧠 <b>Computer Science</b></td>
+<td align="center">Data Structures, Algorithms, OOP, and Operating Systems</td>
+</tr>
+<tr>
+<td align="center">⚙️ <b>Backend Engineering</b></td>
+<td align="center">REST APIs, Authentication, Authorization, and Server Architecture</td>
+</tr>
+<tr>
+<td align="center">🗄️ <b>Database Engineering</b></td>
+<td align="center">Data Modeling, MongoDB, MySQL, and Database Design</td>
+</tr>
+<tr>
+<td align="center">🌐 <b>Full-Stack Development</b></td>
+<td align="center">Frontend Integration, Backend Services, and Complete Applications</td>
+</tr>
+<tr>
+<td align="center">🤖 <b>Applied AI</b></td>
+<td align="center">RAG Pipelines, Vector Search, and LLM Applications</td>
+</tr>
+<tr>
+<td align="center">🔐 <b>Software Quality</b></td>
+<td align="center">Clean Code, Validation, Security Awareness, and Testing</td>
+</tr>
+<tr>
+<td align="center">🚀 <b>Deployment</b></td>
+<td align="center">Git, GitHub, Vercel, Render, and Environment Configuration</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -242,7 +271,6 @@ I try to think beyond making something simply work. A useful application should 
 - **Test important workflows:** Check expected behavior and edge cases.
 - **Deploy and iterate:** Learn from real usage, fix issues, and improve the system step by step.
 
-
 ---
 
 ## 💼 Training & Practical Experience
@@ -273,18 +301,42 @@ Worked as part of a team on an AI-based clinical decision support concept.
 
 ---
 
-## 📚 Computer Science Learning
+<h2 align="center">📚 Computer Science Learning</h2>
 
-My university studies are an important part of my engineering foundation. I'm especially interested in understanding the concepts behind the tools I use.
+<div align="center">
 
-| Subject | Why It Matters |
-|---|---|
-| **Data Structures & Algorithms** | Writing efficient solutions and understanding time and space complexity |
-| **Object-Oriented Programming** | Modeling software with clear responsibilities and reusable components |
-| **Operating Systems** | Understanding processes, memory, scheduling, and how programs run |
-| **Linear Algebra** | Building mathematical foundations useful in computing and AI |
-| **Statistics** | Reasoning about data, uncertainty, and analytical methods |
-| **Information Systems** | Understanding how software supports organizations and business processes |
+<table>
+<tr>
+<th align="center" width="35%">Subject</th>
+<th align="center" width="65%">Core Concepts & Learning Focus</th>
+</tr>
+<tr>
+<td align="center">🧩 <b>Data Structures & Algorithms</b></td>
+<td align="center">Arrays, Linked Lists, Stacks, Queues, Trees, and Complexity Analysis</td>
+</tr>
+<tr>
+<td align="center">💻 <b>Operating Systems</b></td>
+<td align="center">Processes, Threads, CPU Scheduling, Memory Management, and Synchronization</td>
+</tr>
+<tr>
+<td align="center">📐 <b>Linear Algebra</b></td>
+<td align="center">Matrices, Vectors, Linear Transformations, and Mathematical Foundations</td>
+</tr>
+<tr>
+<td align="center">📊 <b>Statistical Analysis</b></td>
+<td align="center">Probability, Descriptive Statistics, Distributions, and Data Analysis</td>
+</tr>
+<tr>
+<td align="center">🗃️ <b>Information Systems</b></td>
+<td align="center">Information Management, Business Processes, and System Fundamentals</td>
+</tr>
+<tr>
+<td align="center">🧠 <b>Problem Solving</b></td>
+<td align="center">Logical Thinking, Algorithmic Design, and Efficient Solutions</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
