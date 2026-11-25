@@ -1,222 +1,360 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B8D9&height=200&section=header&text=Abdelaziz%20Mahmoud&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20-%20Software%20Engineering%20and%20AI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B8D9&height=220&section=header&text=Abdelaziz%20Mahmoud&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Software%20Engineering%20%7C%20Applied%20AI&descAlignY=57&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Software+Engineer;Backend+and+Full-Stack+Developer;Building+AI+and+RAG+Systems;Learning+-+Building+-+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=00B8D9&center=true&vCenter=true&width=780&lines=Computer+Science+Student+at+Benha+University;Backend+%26+Full-Stack+Developer+in+Progress;Building+Real-World+Web+Applications;Exploring+AI%2C+RAG+%26+Intelligent+Systems;Turning+Ideas+Into+Working+Software" alt="Typing SVG"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/abdelazizmahmoudcs">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/abdelaziz-mahmoud-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:abdelazizmahmoud814@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p>
+<a href="https://linkedin.com/in/abdelazizmahmoudcs"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/abdelaziz-mahmoud-dev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:abdelazizmahmoud814@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=abdelaziz-mahmoud-dev&style=flat-square&color=00B8D9&label=PROFILE+VIEWS"/>
+
 </div>
+
+---
 
 ## 👋 About Me
 
-I'm Abdelaziz Mahmoud, a Computer Science student at Benha University with a strong interest in Software Engineering, Backend Development, and Artificial Intelligence.
+I'm **Abdelaziz Mahmoud**, a Computer Science student at **Benha University, Faculty of Computers and Artificial Intelligence**.
 
-I'm focused on building a strong foundation in Computer Science while turning what I learn into real-world projects.
+My main interests are **Software Engineering, Backend Development, Full-Stack Systems, and Applied Artificial Intelligence**.
 
-Currently, I'm working with JavaScript, Node.js, Python, databases, REST APIs, and AI/RAG systems.
+I enjoy taking an idea, understanding the problem behind it, designing a solution, and turning it into software that people can actually use.
 
-I enjoy understanding how things work under the hood, building projects from scratch, and continuously improving my engineering skills.
+I'm particularly interested in what happens behind the interface: API design, authentication, database structure, business logic, application architecture, data flow, and the engineering decisions that make a system reliable and maintainable.
 
-## 🚀 What I'm Currently Learning
+I learn by building. Alongside my university studies, I work on practical projects that simulate real business needs — from management platforms and patient portals to REST APIs and AI-powered applications.
 
-<div align="center">
+- 🎓 **Education:** Computer Science — Benha University
+- 💻 **Main Direction:** Backend Engineering & Full-Stack Development
+- 🤖 **Exploring:** Applied AI, Machine Learning, and RAG
+- 🧩 **Core Interests:** Problem Solving, Data Structures, Algorithms, and Software Design
+- 🌱 **Current Mindset:** Build useful things, understand the fundamentals, improve through iteration.
 
-| 🎯 Area | 📖 Focus |
-|:-------:|:--------:|
-| 🧠 Computer Science Core | Data Structures & Algorithms, Object-Oriented Programming |
-| ⚙️ Backend Development | REST APIs, Server Architecture, Authentication |
-| 🗄️ Databases | Database Design, MongoDB, MySQL |
-| 🐍 Languages | Python & C++ |
-| 🤖 AI & Machine Learning | Machine Learning Fundamentals and Practical AI |
-| 📚 Applied AI | Retrieval-Augmented Generation (RAG) Systems |
-| 🌐 Full-Stack Development | End-to-End Web & Mobile Applications |
-| 🔧 Engineering Practices | Software Engineering Principles, Clean Code |
+---
 
-</div>
+## 🧭 My Engineering Focus
 
-## 🛠️ Tech Stack
+| Area | What I'm Working On |
+|---|---|
+| 🧠 Computer Science | Data Structures, Algorithms, OOP, Operating Systems |
+| ⚙️ Backend Engineering | REST APIs, Authentication, Authorization, Server Architecture |
+| 🗄️ Databases | Data Modeling, MongoDB, MySQL, Database Design |
+| 🌐 Full-Stack Development | Frontend Integration, Backend Services, Complete Applications |
+| 🤖 Applied AI | RAG Pipelines, Vector Search, LLM Applications |
+| 🔐 Software Quality | Clean Code, Validation, Security Awareness, Testing |
+| 🚀 Deployment | Git, GitHub, Vercel, Render, Environment Configuration |
+
+---
+
+## 🛠️ Technology Stack
 
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css"/>
 </p>
 
-### ⚙️ Backend & Databases
+### 🎨 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,vite"/>
 </p>
 
-### 🤖 AI & Data
+### ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="AI" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi"/>
 </p>
+
+### 🗄️ Databases & Data
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG-00B8D9?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge"/>
 </p>
 
-### 🔧 Tools
+### 🤖 AI & Intelligent Applications
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00B8D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge"/>
 </p>
 
-## 📌 Featured Projects
+### 🔧 Development Tools & Platforms
 
-<div align="center">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,vercel"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+A selection of projects representing my interests in backend systems, practical business software, full-stack applications, and applied AI.
+
 <table>
 <tr>
-<th align="center" width="25%">Project</th>
-<th align="center" width="45%">Description</th>
-<th align="center" width="30%">Tech Stack</th>
+<th width="24%">Project</th>
+<th width="52%">Description</th>
+<th width="24%">Technologies</th>
 </tr>
+
 <tr>
-<td align="center">
-🧠<br>
-<a href="https://github.com/abdelaziz-mahmoud-dev/ai-hackathon"><b>CoreMind</b></a><br>
-<sub>AI Clinical Decision Support System</sub>
+<td>
+<h3>🧠 <a href="https://github.com/abdelaziz-mahmoud-dev/ai-hackathon">CoreMind</a></h3>
+<sub>AI Clinical Decision Support</sub>
 </td>
-<td align="center">
-An AI-powered RAG system designed to retrieve evidence from trusted medical guidelines and generate grounded responses with supporting citations.
+<td>
+An AI-powered clinical decision support prototype built around a Retrieval-Augmented Generation workflow. It retrieves relevant information from medical documents and produces grounded responses with supporting sources and citations.
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-00B8D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=flat-square"/>
+<td>
+Python · FastAPI · RAG · ChromaDB · LLMs
 </td>
 </tr>
+
 <tr>
-<td align="center">
-🛒<br>
-<a href="https://github.com/abdelaziz-mahmoud-dev/ecommerce-api"><b>E-Commerce API</b></a><br>
-<sub>Full-Featured Backend API</sub>
+<td>
+<h3>🦷 M&N Patient Portal</h3>
+<sub>Patient-facing clinic platform</sub>
 </td>
-<td align="center">
-A full-featured e-commerce REST API with authentication, product and cart management, orders, real-time notifications, Stripe payments, and Docker support.
+<td>
+A bilingual, multi-role patient portal designed for a dental clinic. Includes patient registration and login, staff access, appointment requests with reception approval, patient-file linking, and workflows connecting patients with clinic operations.
+<br/><br/>
+<a href="https://github.com/abdelaziz-mahmoud-dev/mn-patient-portal">Repository</a> · <a href="https://mn-dental-web.vercel.app">Website</a>
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<td>
+React · Vite · Node.js · Express · MongoDB
 </td>
 </tr>
+
 <tr>
-<td align="center">
-📱<br>
-<a href="https://github.com/abdelaziz-mahmoud-dev/one-minute"><b>One Minute</b></a><br>
+<td>
+<h3>🦷 M&N Dental Management</h3>
+<sub>Clinic Management System</sub>
+</td>
+<td>
+A dental clinic management system built around real operational workflows. Supports role-based access for administrators, doctors, and receptionists, patient management, and doctor-specific patient access.
+<br/><br/>
+<a href="https://mn-dental-management-system.onrender.com">Deployed API</a>
+</td>
+<td>
+Node.js · Express · MongoDB · JavaScript
+</td>
+</tr>
+
+<tr>
+<td>
+<h3>📦 MedSupply</h3>
+<sub>Medical Supplies Management</sub>
+</td>
+<td>
+A business-oriented inventory and sales management system for a medical supplies store. Its workflows cover retail and wholesale operations, products, stock, purchases, sales, accounts, employees, and batch/expiry tracking, with Arabic and English interfaces.
+</td>
+<td>
+Web Development · Inventory · Business Logic · Data Management
+</td>
+</tr>
+
+<tr>
+<td>
+<h3>🛒 <a href="https://github.com/abdelaziz-mahmoud-dev/ecommerce-api">E-Commerce API</a></h3>
+<sub>Backend API</sub>
+</td>
+<td>
+A full-featured e-commerce REST API covering authentication, product and cart management, orders, real-time notifications, payment integration, and containerized development workflows.
+</td>
+<td>
+Node.js · Express · MongoDB · Socket.io · Docker
+</td>
+</tr>
+
+<tr>
+<td>
+<h3>📱 <a href="https://github.com/abdelaziz-mahmoud-dev/one-minute">One Minute</a></h3>
 <sub>Micro-Learning Mobile App</sub>
 </td>
-<td align="center">
-A micro-learning mobile app that delivers useful knowledge through short one-minute learning sessions, with authentication, quizzes, progress tracking, and a RESTful backend.
+<td>
+A micro-learning application designed to deliver useful knowledge through short learning sessions. Combines a mobile experience with backend functionality for authentication, quizzes, and progress tracking.
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<td>
+Flutter · Dart · Node.js · MongoDB
 </td>
 </tr>
+
 <tr>
-<td align="center">
-💬<br>
-<a href="https://github.com/abdelaziz-mahmoud-dev/pulse-chat-api"><b>Pulse Chat API</b></a><br>
-<sub>Real-Time Chat Backend</sub>
+<td>
+<h3>💬 <a href="https://github.com/abdelaziz-mahmoud-dev/pulse-chat-api">Pulse Chat API</a></h3>
+<sub>Real-Time Messaging Backend</sub>
 </td>
-<td align="center">
-A real-time one-to-one chat backend with JWT authentication, Socket.io messaging, online/offline presence, typing indicators, message persistence, rate limiting, and automated API testing.
+<td>
+A one-to-one chat backend featuring JWT authentication, real-time messaging, online/offline presence, typing indicators, message persistence, rate limiting, and automated API testing.
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+<td>
+Node.js · Express · MongoDB · Socket.io · Jest
 </td>
 </tr>
+
 <tr>
-<td align="center">
-📅<br>
-<a href="https://github.com/abdelaziz-mahmoud-dev/booking-system-api"><b>Booking System API</b></a><br>
-<sub>Appointment & Booking Backend</sub>
+<td>
+<h3>📅 <a href="https://github.com/abdelaziz-mahmoud-dev/booking-system-api">Booking System API</a></h3>
+<sub>Appointment Management</sub>
 </td>
-<td align="center">
-A RESTful booking and appointment management API with JWT authentication, role-based access, service management, booking conflict detection, and email notifications.
+<td>
+A RESTful booking API with authentication, role-based access, service management, booking conflict detection, and email notifications.
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/>
-<img src="https://img.shields.io/badge/Nodemailer-0F9D58?style=flat-square"/>
+<td>
+Node.js · Express · MongoDB · JWT · Nodemailer
 </td>
 </tr>
+
 <tr>
-<td align="center">
-⚙️<br>
-<a href="https://github.com/abdelaziz-mahmoud-dev/saraha-api"><b>Saraha API</b></a><br>
+<td>
+<h3>💭 <a href="https://github.com/abdelaziz-mahmoud-dev/saraha-api">Saraha API</a></h3>
 <sub>Anonymous Messaging Backend</sub>
 </td>
-<td align="center">
-A RESTful backend API for an anonymous messaging application, handling user authentication, protected routes, and anonymous message management with MongoDB.
+<td>
+A backend API for an anonymous messaging application, with user authentication, protected routes, and anonymous message management backed by MongoDB.
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/>
+<td>
+Node.js · Express · MongoDB · JWT
 </td>
 </tr>
 </table>
-</div>
 
-## 🔥 GitHub Streak
+> Some projects are private, under active development, or client-oriented. Their descriptions summarize their scope without exposing private source code, credentials, or operational data.
+
+---
+
+## 🧪 How I Approach Building Software
+
+I try to think beyond making something simply work. A useful application should solve a real problem and remain understandable as it grows.
+
+- **Understand the problem:** Identify users, workflows, constraints, and expected outcomes.
+- **Design the data:** Think about entities, relationships, validation, and information flow.
+- **Build clear interfaces:** Keep frontend components and backend responsibilities organized.
+- **Protect the application:** Consider authentication, authorization, input validation, and secret management.
+- **Test important workflows:** Check expected behavior and edge cases.
+- **Deploy and iterate:** Learn from real usage, fix issues, and improve the system step by step.
+
+
+---
+
+## 💼 Training & Practical Experience
+
+### Web Design Trainee — National Telecommunication Institute (NTI)
+
+**Summer Training | June – July 2026**
+
+Participated in practical web design training focused on building responsive web interfaces and understanding the foundations of frontend development.
+
+- Worked with HTML, CSS, and JavaScript.
+- Practiced responsive layouts and Bootstrap.
+- Applied frontend fundamentals through practical tasks.
+- Explored how web development skills connect to real projects and freelancing workflows.
+
+### CoreMind — AI Hackathon Project
+
+**Orange Digital Center · CREATIVA Hub · ITIDA · TIEC · Instant**
+
+**August 2026 | 40 Training Hours**
+
+Worked as part of a team on an AI-based clinical decision support concept.
+
+- Explored Retrieval-Augmented Generation workflows.
+- Worked with medical reference documents and retrieval.
+- Focused on grounded answers and supporting citations.
+- Collaborated on the project using Python, FastAPI, ChromaDB, and Figma.
+
+---
+
+## 📚 Computer Science Learning
+
+My university studies are an important part of my engineering foundation. I'm especially interested in understanding the concepts behind the tools I use.
+
+| Subject | Why It Matters |
+|---|---|
+| **Data Structures & Algorithms** | Writing efficient solutions and understanding time and space complexity |
+| **Object-Oriented Programming** | Modeling software with clear responsibilities and reusable components |
+| **Operating Systems** | Understanding processes, memory, scheduling, and how programs run |
+| **Linear Algebra** | Building mathematical foundations useful in computing and AI |
+| **Statistics** | Reasoning about data, uncertainty, and analytical methods |
+| **Information Systems** | Understanding how software supports organizations and business processes |
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdelaziz-mahmoud-dev&hide_border=true&theme=dark" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelaziz-mahmoud-dev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaziz-mahmoud-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=abdelaziz-mahmoud-dev&hide_border=true&theme=tokyonight" alt="GitHub Contribution Streak"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelaziz-mahmoud-dev&bg_color=1a1b27&color=70a5fd&line=00b8d9&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+
 </div>
 
-## 🎯 My Goals
+---
 
-- 🚀 Become a strong Software Engineer
-- 🏗️ Build production-quality software
-- 🧩 Master Data Structures & Algorithms
-- ⚙️ Become strong in Backend & Full-Stack Development
-- 🤖 Build practical AI systems
-- 🌍 Contribute to real-world projects
-- 🤝 Work with international engineering teams
+## 🎯 Current Goals
+
+- 🧠 Strengthen my foundations in Data Structures, Algorithms, and core Computer Science.
+- ⚙️ Become a capable backend engineer who can design and build reliable APIs and services.
+- 🏗️ Build and maintain complete applications that solve real business problems.
+- 🗄️ Improve my database design and data modeling skills.
+- 🧪 Write better tests and develop stronger debugging habits.
+- 🤖 Deepen my understanding of Machine Learning and practical AI systems.
+- 🌍 Collaborate with developers and engineering teams on meaningful products.
+- 📖 Keep learning consistently and document what I build.
+
+---
+
+## 🤝 What I'm Interested In
+
+I'm interested in connecting with people who enjoy building useful software and sharing knowledge.
+
+- Backend and full-stack web development.
+- Practical AI and RAG applications.
+- Student projects and hackathons.
+- Open-source learning and collaboration.
+- Software engineering discussions and feedback.
+
+If you're working on something interesting in these areas, feel free to reach out.
+
+---
 
 ## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/abdelazizmahmoudcs">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/abdelaziz-mahmoud-dev">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>💡 "Learning by building, improving by solving."</i></p>
+<a href="https://linkedin.com/in/abdelazizmahmoudcs">
+<img src="https://img.shields.io/badge/LinkedIn-Abdelaziz%20Mahmoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,100:0A66C2&height=100&section=footer" width="100%"/>
+<a href="mailto:abdelazizmahmoud814@gmail.com">
+<img src="https://img.shields.io/badge/Email-Send%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abdelaziz-mahmoud-dev">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💡 "Build with purpose. Learn with curiosity. Improve with every iteration."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,100:0A66C2&height=120&section=footer" width="100%"/>
+
+</div>
